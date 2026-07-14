@@ -27,7 +27,7 @@ Servizio di notarizzazione documenti con hash SHA-256 e marca temporale su block
 
 ### Opzione 1 - Drag & Drop
 
-1. Vai su [app.netlify.com](https://app.netlify.com)
+1. Accedi al tuo account Netlify
 2. Trascina la cartella del progetto nell'area di deploy
 3. Netlify serve automaticamente `index.html`
 
