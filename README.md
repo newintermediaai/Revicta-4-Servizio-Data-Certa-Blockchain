@@ -2,6 +2,8 @@
 
 **by NIAI (New Intermedia AI)**
 
+link app https://spontaneous-palmier-a45222.netlify.app/
+
 Servizio di notarizzazione documenti con hash SHA-256 e marca temporale su blockchain Bitcoin. Valido ai sensi delle vigenti leggi italiane.
 
 ---
